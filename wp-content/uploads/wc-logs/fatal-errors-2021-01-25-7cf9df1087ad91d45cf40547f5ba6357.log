@@ -1,0 +1,138 @@
+2021-01-25T09:41:54+00:00 CRITICAL Uncaught Error: Class 'Advanace_Woocommerce_Theme_Menus' not found in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-main_menu.php:136
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(732): require()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\Floxia-ecomm\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\front-page.php(4): get_template_part('includes/sectio...', 'main_menu')
+#4 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-main_menu.php on line 136
+
+2021-01-25T09:42:53+00:00 CRITICAL Uncaught Error: Class 'Advanace_Woocommerce_Theme_Menus' not found in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-main_menu.php:136
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(732): require()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\Floxia-ecomm\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\front-page.php(4): get_template_part('includes/sectio...', 'main_menu')
+#4 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-main_menu.php on line 136
+
+2021-01-25T09:43:13+00:00 CRITICAL Uncaught Error: Class 'Advanace_Woocommerce_Theme_Menus' not found in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-main_menu.php:136
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(732): require()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\Floxia-ecomm\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\front-page.php(4): get_template_part('includes/sectio...', 'main_menu')
+#4 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-main_menu.php on line 136
+
+2021-01-25T09:48:09+00:00 CRITICAL Uncaught Error: Undefined constant 'floxia' in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-main_menu.php:137
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(732): require()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\Floxia-ecomm\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\front-page.php(4): get_template_part('includes/sectio...', 'main_menu')
+#4 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-main_menu.php on line 137
+
+2021-01-25T09:48:19+00:00 CRITICAL Uncaught Error: Undefined constant 'floxia' in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-main_menu.php:137
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(732): require()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\Floxia-ecomm\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\front-page.php(4): get_template_part('includes/sectio...', 'main_menu')
+#4 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-main_menu.php on line 137
+
+2021-01-25T09:49:25+00:00 CRITICAL Uncaught Error: Undefined constant 'floxia' in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-main_menu.php:137
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(732): require()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\Floxia-ecomm\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\front-page.php(4): get_template_part('includes/sectio...', 'main_menu')
+#4 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-main_menu.php on line 137
+
+2021-01-25T12:51:51+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php:57
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(732): require()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\Floxia-ecomm\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\front-page.php(12): get_template_part('includes/sectio...', 'trending_items')
+#4 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php on line 57
+
+2021-01-25T12:52:10+00:00 CRITICAL Uncaught Error: Call to undefined function get_price_html() in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php:57
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(732): require()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\Floxia-ecomm\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\front-page.php(12): get_template_part('includes/sectio...', 'trending_items')
+#4 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php on line 57
+
+2021-01-25T12:53:54+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php on line 1377
+
+2021-01-25T13:01:00+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php on line 1377
+
+2021-01-25T13:01:20+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php on line 1377
+
+2021-01-25T13:05:42+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on null in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php:43
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(732): require()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\Floxia-ecomm\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\front-page.php(12): get_template_part('includes/sectio...', 'trending_items')
+#4 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php on line 43
+
+2021-01-25T13:06:12+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on null in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php:44
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(732): require()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\Floxia-ecomm\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\front-page.php(12): get_template_part('includes/sectio...', 'trending_items')
+#4 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php on line 44
+
+2021-01-25T13:11:02+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on null in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php:43
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(732): require()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\Floxia-ecomm\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\front-page.php(12): get_template_part('includes/sectio...', 'trending_items')
+#4 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php on line 43
+

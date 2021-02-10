@@ -1,0 +1,110 @@
+2021-01-27T07:40:42+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php on line 176
+
+2021-01-27T07:44:53+00:00 CRITICAL Uncaught Error: Call to undefined function the_description() in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php:54
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php on line 54
+
+2021-01-27T07:49:57+00:00 CRITICAL syntax error, unexpected '}' in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php on line 79
+
+2021-01-27T07:53:02+00:00 CRITICAL syntax error, unexpected '}' in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php on line 79
+
+2021-01-27T07:53:03+00:00 CRITICAL syntax error, unexpected '}' in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php on line 79
+
+2021-01-27T07:54:10+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php on line 79
+
+2021-01-27T07:56:02+00:00 CRITICAL Uncaught Error: Call to a member function get_items() on bool in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php:57
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php on line 57
+
+2021-01-27T07:58:04+00:00 CRITICAL Uncaught Error: Call to a member function get_items() on bool in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php:54
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php on line 54
+
+2021-01-27T09:37:08+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php:54
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php on line 54
+
+2021-01-27T09:39:19+00:00 CRITICAL Uncaught Error: Call to undefined function WC_Product_Simple() in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php:55
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php on line 55
+
+2021-01-27T09:39:35+00:00 CRITICAL syntax error, unexpected '.' in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php on line 55
+
+2021-01-27T10:06:22+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php on line 144
+
+2021-01-27T10:15:10+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php on line 92
+
+2021-01-27T10:32:17+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php:140
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php on line 140
+
+2021-01-27T10:34:49+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php:137
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php on line 137
+
+2021-01-27T11:02:59+00:00 CRITICAL Uncaught Error: Call to undefined function WC_Product_Simple() in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php:138
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php on line 138
+
+2021-01-27T11:03:43+00:00 CRITICAL Uncaught Error: Call to undefined function WC_Product_Simple() in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php:138
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php on line 138
+
+2021-01-27T12:21:34+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on null in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php:73
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php on line 73
+
+2021-01-27T13:46:54+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php on line 32
+
+2021-01-27T13:50:18+00:00 CRITICAL Redefinition of parameter $int in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\functions.php on line 61
+
+2021-01-27T13:53:11+00:00 CRITICAL Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php on line 32
+
+2021-01-27T13:54:10+00:00 CRITICAL Cannot redeclare ttp_wc_show_coupon() (previously declared in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\functions.php:67) in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-cart.php on line 44
+

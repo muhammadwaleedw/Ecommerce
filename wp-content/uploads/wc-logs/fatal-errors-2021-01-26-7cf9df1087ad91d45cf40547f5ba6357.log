@@ -1,0 +1,106 @@
+2021-01-26T10:37:17+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php:41
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(732): require()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\Floxia-ecomm\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\front-page.php(12): get_template_part('includes/sectio...', 'trending_items')
+#4 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php on line 41
+
+2021-01-26T10:37:59+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php:41
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(732): require()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\Floxia-ecomm\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\front-page.php(12): get_template_part('includes/sectio...', 'trending_items')
+#4 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php on line 41
+
+2021-01-26T10:38:08+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php:41
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(732): require()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\Floxia-ecomm\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\front-page.php(12): get_template_part('includes/sectio...', 'trending_items')
+#4 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php on line 41
+
+2021-01-26T10:41:37+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart_text() on null in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php:52
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(732): require()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\Floxia-ecomm\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\front-page.php(12): get_template_part('includes/sectio...', 'trending_items')
+#4 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php on line 52
+
+2021-01-26T10:42:11+00:00 CRITICAL Uncaught Error: Call to undefined function add_to_cart_url() in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php:52
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(732): require()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\Floxia-ecomm\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\front-page.php(12): get_template_part('includes/sectio...', 'trending_items')
+#4 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php on line 52
+
+2021-01-26T10:42:21+00:00 CRITICAL Uncaught Error: Call to undefined function add_to_cart_url() in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php:52
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(732): require()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\Floxia-ecomm\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\front-page.php(12): get_template_part('includes/sectio...', 'trending_items')
+#4 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php on line 52
+
+2021-01-26T10:42:46+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart_url() on null in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php:52
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(732): require()
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\Floxia-ecomm\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\front-page.php(12): get_template_part('includes/sectio...', 'trending_items')
+#4 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Floxia-ecomm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Floxia-ecomm\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php on line 52
+
+2021-01-26T10:51:59+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_shortcode(), 1 passed in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php on line 52 and exactly 2 expected in C:\xampp\htdocs\Floxia-ecomm\wp-includes\shortcodes.php:63
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php(52): add_shortcode('[add_to_cart ]')
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(732): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', false, Array)
+#3 C:\xampp\htdocs\Floxia-ecomm\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#4 C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\front-page.php(12): get_template_part('includes/sectio...', 'trending_items')
+#5 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Floxia-ec in C:\xampp\htdocs\Floxia-ecomm\wp-includes\shortcodes.php on line 63
+
+2021-01-26T10:52:33+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_shortcode(), 1 passed in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php on line 52 and exactly 2 expected in C:\xampp\htdocs\Floxia-ecomm\wp-includes\shortcodes.php:63
+Stack trace:
+#0 C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-trending_items.php(52): add_shortcode('[add_to_cart ]')
+#1 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(732): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', false, Array)
+#3 C:\xampp\htdocs\Floxia-ecomm\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#4 C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\front-page.php(12): get_template_part('includes/sectio...', 'trending_items')
+#5 C:\xampp\htdocs\Floxia-ecomm\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Floxia-ec in C:\xampp\htdocs\Floxia-ecomm\wp-includes\shortcodes.php on line 63
+
+2021-01-26T11:34:26+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\Floxia-ecomm\wp-content\themes\floxia-ecomm\includes\section-single_product.php on line 93
+
